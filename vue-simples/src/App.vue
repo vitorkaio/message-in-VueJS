@@ -1,6 +1,10 @@
 <template>
   <div id="app">
     <app-message></app-message>
+    <br>
+    <hr>
+    <br>
+    <app-start></app-start>
   </div>
 </template>
 
