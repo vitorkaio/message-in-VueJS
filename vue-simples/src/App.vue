@@ -4,7 +4,8 @@
     <br>
     <hr>
     <br>
-    <app-start></app-start>
+    <!--<app-start></app-start> -->
+    <app-contatos></app-contatos>
   </div>
 </template>
 
